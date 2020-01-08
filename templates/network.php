@@ -1,0 +1,2 @@
+        <div class="network">
+            <a href="#" target="_blank"><img src="images/facebook.png"></a><a href="#" target="_blank"><img src="images/twitter.png"></a><a href="#" target="_blank"><img src="images/pinterest.png"></a></div>
